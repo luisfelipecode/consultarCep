@@ -11,7 +11,7 @@
 
 ## :dart: About
 
-    Desenvolvi esse projeto para testar meus conhecimentos em JavaScript, neste projeto utilizei a API do [CEP](https://viacep.com.br/) para consultar o CEP.
+Desenvolvi esse projeto para testar meus conhecimentos em JavaScript, neste projeto utilizei a API do CEPhttps://viacep.com.br/ para consultar o CEP.
 
 ## :rocket: Technologies
 
